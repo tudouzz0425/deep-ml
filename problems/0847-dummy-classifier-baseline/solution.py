@@ -34,7 +34,7 @@ def dummy_classifier(y_train, n_test, strategy, constant=None):
 
         for i in order[:remaining]:
             allocations[i] += 1
-        
+         
         predictions = []
         for c,count in zip(classes,allocations):
             predictions.extend([c]*count)
