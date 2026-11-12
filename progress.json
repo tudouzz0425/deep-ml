@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:59:34.688Z",
+  "generated_at": "2026-11-12T07:49:45.377Z",
   "items": {
     "problem:847": {
       "kind": "problem",
@@ -193,6 +193,19 @@
       "last_pushed_at": "2026-11-12T06:59:33.449Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:849": {
+      "kind": "problem",
+      "id": "849",
+      "title": "Precision and Recall at Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/849",
+      "path": "problems/0849-precision-and-recall-at-threshold",
+      "first_solved_at": "2026-11-12T07:49:44.285Z",
+      "last_pushed_at": "2026-11-12T07:49:44.285Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
