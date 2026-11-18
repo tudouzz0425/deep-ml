@@ -25,7 +25,7 @@ def split_and_baseline(X, y, train_frac, val_frac, test_frac, seed):
     if n_train == 0:
         raise ValueError("训练集至少需要一个样本")
 
-    training_mean = float(np.mean(y[train_idx]))
+    training_mean = float(np.mean(y))
     test_predictions = np.full(len(test_idx), training_mean)
 
     return test_predictions, train_idx, val_idx, test_idx
