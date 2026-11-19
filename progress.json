@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:13:45.607Z",
+  "generated_at": "2026-11-19T10:26:56.219Z",
   "items": {
     "problem:847": {
       "kind": "problem",
@@ -219,6 +219,19 @@
       "last_pushed_at": "2026-11-18T11:13:44.285Z",
       "language": "python",
       "lines": 32
+    },
+    "lab:11": {
+      "kind": "lab",
+      "id": "11",
+      "title": "Data Preprocessing: Handling Missing Values",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/labs/11",
+      "path": "labs/0011-data-preprocessing-handling-missing-values",
+      "first_solved_at": "2026-11-19T10:26:56.512Z",
+      "last_pushed_at": "2026-11-19T10:26:56.512Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
